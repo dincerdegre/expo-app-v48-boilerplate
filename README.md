@@ -1,3 +1,3 @@
-# Mobile App Expo Boilerplate
+# Mobile App Expo Boilerplate (V48)
 
-has Expo Router and screen fixes safe areas
+Light / Dark Mode support works fine in Android Expo Version 48
